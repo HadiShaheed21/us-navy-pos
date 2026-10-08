@@ -1,0 +1,4 @@
+{
+  "__comment": "US NAVY: no API rewrite until the NEW Railway service URL exists. Before deploying to Vercel, replace the empty rewrites with: { \"source\": \"/api/:path*\", \"destination\": \"https://<US-NAVY-RAILWAY-SERVICE-URL>/api/:path*\" } — see docs/us-navy-deployment.md. Never point this at a shared/legacy Railway service.",
+  "rewrites": []
+}
